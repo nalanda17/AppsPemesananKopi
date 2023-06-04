@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/menuhome"
+        android:title="Home"
+        android:icon="@drawable/ichome"
+        ></item>
+
+    <item
+        android:id="@+id/menuorder"
+        android:title="Order"
+        android:icon="@drawable/ichome"
+        ></item>
+
+    <item
+        android:id="@+id/keranjang"
+        android:title="Keranjang"
+        android:icon="@drawable/ichome"
+        ></item>
+
+
+</menu>
